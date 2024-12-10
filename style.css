@@ -272,3 +272,8 @@ body, html {
     font-family: 'Poppins', sans-serif;
     font-size: 0.9em;
 }
+/* Videos Page Background */
+.videos-page {
+    background: url('pictures/16.png') no-repeat center center fixed;
+    background-size: cover;
+}
